@@ -14,8 +14,8 @@ An elegant and interactive stopwatch app built with Flutter. This app uses `Tick
 
 ## 📸 Preview
 
-> *(Replace with actual screenshot)*  
-> ![App Screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" alt="Stopwatch Screenshot" width="350"/>
+
 
 ## 📦 Getting Started
 
