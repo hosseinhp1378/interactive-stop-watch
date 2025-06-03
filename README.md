@@ -57,17 +57,6 @@ lib/
 ## 💡 Inspiration
 
 This project is part of a practice series to improve animation skills in Flutter and build user-friendly micro-apps.
-
-## 📷 Screenshot
-
-Make sure to save a screenshot in `assets/screenshot.png` and update your `pubspec.yaml` to include:
-
-```yaml
-flutter:
-  assets:
-    - assets/screenshot.png
-```
-
 ## 📝 License
 
 MIT License. See [LICENSE](LICENSE) for details.
