@@ -1,8 +1,5 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:interactive_stop_watch/ui/elapsed_time_text_basic.dart';
 import 'package:interactive_stop_watch/ui/reset_button.dart';
 import 'package:interactive_stop_watch/ui/start_stop_button.dart';
 import 'package:interactive_stop_watch/ui/stopwatch_rendere.dart';
