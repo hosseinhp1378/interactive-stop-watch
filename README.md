@@ -2,7 +2,7 @@
 
 An elegant and interactive stopwatch app built with Flutter. This app uses `Ticker` and `AnimationController` to provide a smooth, animated display of the elapsed time. With intuitive controls to start, stop, and reset the timer, it's both a functional and visually engaging utility.
 
-![Stopwatch Screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" alt="Stopwatch Screenshot" width="350"/>
 
 ## 🚀 Features
 
