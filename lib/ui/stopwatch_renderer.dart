@@ -5,8 +5,8 @@ import 'package:interactive_stop_watch/ui/clock_hand.dart';
 import 'package:interactive_stop_watch/ui/clock_markers.dart';
 import 'package:interactive_stop_watch/ui/elapsed_time_text_basic.dart';
 
-class StopwatchRendere extends StatelessWidget {
-  const StopwatchRendere({
+class StopwatchRenderer extends StatelessWidget {
+  const StopwatchRenderer({
     super.key,
     required this.elapsed,
     required this.radius,

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:interactive_stop_watch/ui/reset_button.dart';
 import 'package:interactive_stop_watch/ui/start_stop_button.dart';
-import 'package:interactive_stop_watch/ui/stopwatch_rendere.dart';
+import 'package:interactive_stop_watch/ui/stopwatch_renderer.dart';
 
 class Stopwatch extends StatefulWidget {
   const Stopwatch({super.key});
@@ -70,7 +70,7 @@ class _StopwatchState extends State<Stopwatch>
       final radius = constraints.maxWidth / 2;
       return Stack(
         children: [
-          StopwatchRendere(
+          StopwatchRenderer(
             elapsed: _elapsed,
             radius: radius,
           ),
